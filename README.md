@@ -1,6 +1,5 @@
-### Hi there 👋
-### Hi there, I'm Obadiah Korir👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=malcolmmaima&color=yellow)</div>
 
+### Hi there, I'm Obadiah Korir👋 
 ## I'm a Software Engineer, Poultry Farmer, Technology Enthusiast!!
 
 - 🌱 I’m currently doing ASP.Net Core/Xamarin Forms  Stuff. 
