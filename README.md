@@ -16,7 +16,8 @@
 <br />
 
 ### Technology Stack:
-
+<img align="left" alt="ASP.NET CORE" width="50px" src="https://user-images.githubusercontent.com/22344432/160771272-9ad32c1c-065e-4af1-9b6a-f7424f46f342.png"/>
+<img align="left" alt="Java" width="50px" src="https://user-images.githubusercontent.com/22344432/160771459-b4288c7f-5ddc-4cce-83aa-9abf16ad9e6a.png"/>
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
