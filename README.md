@@ -10,7 +10,7 @@
 
 ### Connect with me 
 
-<p><b>korir400@gmail.com</b></p>
+<p><b>korir400@gmail.com/obadiahrodger@gmail.com</b></p>
 
 <br />
 <br />
